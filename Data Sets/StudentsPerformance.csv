@@ -1,0 +1,8 @@
+Count of gender,,,parental level of education,,,,,,
+gender,test preparation course,race/ethnicity,associate's degree,bachelor's degree,high school,master's degree,some college,some high school,Grand Total
+female,,,45,26,30,7,44,28,180
+,completed,,18,13,5,4,16,13,69
+,,group C,18,13,5,4,16,13,69
+,none,,27,13,25,3,28,15,111
+,,group C,27,13,25,3,28,15,111
+Grand Total,,,45,26,30,7,44,28,180
