@@ -1,0 +1,14 @@
+﻿Day,City,Temperature,Windspeed,Event
+01-01-2017,Chennai,22,6,Rain
+02-01-2017,Chennai,35,7,Sunny
+03-01-2017,Chennai,38,12,Sunny
+01-01-2017,Namakkal,22,7,Sunny
+02-01-2017,Namakkal,29,5,Rain
+03-01-2017,Namakkal,20,12,Rain
+01-01-2017,Salem,23,15,Rain
+02-01-2017,Salem,42,5,Sunny
+03-01-2017,Salem,36,20,Rain
+01-01-2017,Erode,26,13,Rain
+02-01-2017,Erode,29,8,Rain
+03-01-2017,Erode,40,10,Rain
+,,,,
